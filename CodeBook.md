@@ -18,7 +18,9 @@
 ### Elements of merged.data1 table.
 
 <b>Variables</b>:
+
 subject – numbers of the subject who carried out the experiment
+
 activity – six types of activities each subject performed during the experiment
 
 <b>Measuring variables</b> – Ones that contain “mean” in the name are mean values, ones that contain “std” in the name are standard deviation values:
