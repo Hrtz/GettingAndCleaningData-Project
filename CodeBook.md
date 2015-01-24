@@ -8,7 +8,7 @@
 
 * Merged test and train sets are stored in table <b> mergedData. </b>
 
-* Selection of elements form mergedData that contain mean and standard deviation values is stored in <b> mergedDataSelect table </b>. Activity values column is implemented in this table.
+* Selection of elements form mergedData that contain mean and standard deviation values is stored in <b> mergedDataSelect </b> table. Activity values column is implemented in this table.
 
 * From <b>mergedDataSelect </b> table mean values of each column based on activity for each subject is calculated and stored as merged.data1 table.
 
