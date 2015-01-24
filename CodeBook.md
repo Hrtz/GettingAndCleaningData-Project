@@ -17,11 +17,11 @@
 
 ### Elements of merged.data1 table.
 
-<b>Variables</b>:\n
-subject – numbers of the subject who carried out the experiment\n
-activity – six types of activities each subject performed during the experiment
+<b>Variables</b>:
+subject â€“ numbers of the subject who carried out the experiment
+activity â€“ six types of activities each subject performed during the experiment
 
-<b>Measuring variables</b> – Ones that contain “mean” in the name are mean values, ones that contain “std” in the name are standard deviation values:
+<b>Measuring variables</b> â€“ Ones that contain â€œmeanâ€ in the name are mean values, ones that contain â€œstdâ€ in the name are standard deviation values:
 
 tBodyAccmeanX                    
 tBodyAccmeanY                     
