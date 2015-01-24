@@ -1,6 +1,6 @@
 ## GettingAndCleaningData-Project
 
-<b>Explanation of run_analysis code</b>
+<b>Explanation of run_analysis.R code</b>
 
 Note:
 dplyr package is used
