@@ -10,7 +10,7 @@
 
 * Selection of elements form mergedData that contain mean and standard deviation values is stored in <b> mergedDataSelect </b> table. Activity values column is implemented in this table.
 
-* From <b>mergedDataSelect </b> table mean values of each column based on activity for each subject is calculated and stored as merged.data1 table.
+* From mergedDataSelect table mean values of each column based on activity for each subject is calculated and stored as <b>merged.data1</b> table.
 
 * merged.data1 is exported as <b> CourseProject.txt </b> file.
 
