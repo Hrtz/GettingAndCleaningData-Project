@@ -75,6 +75,7 @@ angletBodyAccMeangravity
 angletBodyAccJerkMeangravityMean  
 angletBodyGyroMeangravityMean    
 angletBodyGyroJerkMeangravityMean 
+
 angleXgravityMean                 
 angleYgravityMean                
 angleZgravityMean                 
