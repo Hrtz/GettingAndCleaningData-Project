@@ -74,8 +74,7 @@ fBodyBodyGyroJerkMagmeanFreq
 angletBodyAccMeangravity          
 angletBodyAccJerkMeangravityMean  
 angletBodyGyroMeangravityMean    
-angletBodyGyroJerkMeangravityMean 
-
+angletBodyGyroJerkMeangravityMean                    
 angleXgravityMean                 
 angleYgravityMean                
 angleZgravityMean                 
